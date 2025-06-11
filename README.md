@@ -2,16 +2,6 @@
 
 A Python script that extracts unique images from PDF files and saves them with clean, sequential naming.
 
-## Features
-
-- ✅ Extract images from PDF files
-- ✅ Automatic duplicate detection (same image won't be saved multiple times)
-- ✅ Simple sequential naming (`image_1.jpg`, `image_2.jpg`, etc.)
-- ✅ Resize images to 70% of original size for optimal storage
-- ✅ Filter out small images (< 500px width/height)
-- ✅ Display text content from each page
-- ✅ Customizable output directory, image format, and quality
-
 ## Installation
 
 1. Clone the repository:
