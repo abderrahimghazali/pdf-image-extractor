@@ -1,6 +1,6 @@
 # PDF Image Extractor
 
-A Python script that extracts unique images from PDF files and saves them with clean, sequential naming.
+A Python script that extracts unique images from PDF files and saves them.
 
 ## Installation
 
