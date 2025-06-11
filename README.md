@@ -70,7 +70,3 @@ Skipping duplicate image on page 2
 - pdfplumber
 - pymupdf
 - pillow
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
